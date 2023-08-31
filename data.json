@@ -1,0 +1,90 @@
+[
+  {
+    "userId": "a61627ca-da3b-42f8-9692-5b19de2a341e",
+    "accountNumber": "9656831466",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-1993",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "9942c6f6-2b40-40d5-bcbe-6e087677cf89",
+    "accountNumber": "2702667552",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-1993",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "3363aa62-91de-4e67-a155-0e0471db04b8",
+    "accountNumber": "8473531307",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-199",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "b2372462-ce22-4216-893a-03995c2bb9cd",
+    "accountNumber": "4166080661",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-199",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "d06e8a0c-7b27-4c9d-89e2-d32b73995974",
+    "accountNumber": "5337033310",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-19",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "63c43549-f014-4c72-9b1d-540f20182970",
+    "accountNumber": "7679834512",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-19",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "2e67c604-e602-436c-97af-ecdd0849fd59",
+    "accountNumber": "2945408878",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-19",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "3946baf0-474a-4f89-aa83-646bcc0d7086",
+    "accountNumber": "2885089423",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-19",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "fb3d604e-f7ca-407a-822a-bb9d243d6377",
+    "accountNumber": "4955086778",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-19",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "c33401e1-279f-428a-90da-5b95e2cea576",
+    "accountNumber": "6934291247",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-199",
+    "accountType": "saving",
+    "initialBalance": "200"
+  },
+  {
+    "userId": "5369087d-6fb8-4f95-8497-1452d9726442",
+    "accountNumber": "4392774983",
+    "accountHolderName": "kingsley ikemba",
+    "dob": "04-11-1990",
+    "accountType": "saving",
+    "initialBalance": "200"
+  }
+]
